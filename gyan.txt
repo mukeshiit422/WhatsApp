@@ -1,0 +1,5 @@
+1.css handling in string: lowercase and hyphen based ; ,
+2.css handling in object :camelCae and : and ,
+3.map call back fun don't use {} when not writing return
+4.when we want something display over image ,then use css if we use img tag then we need to play with position
+5. if you take image tag for background image , then you need to play with position , so use css to have background image.
